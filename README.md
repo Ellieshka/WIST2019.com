@@ -14,7 +14,7 @@
     gtag('config', 'G-ZEPC40ZRC6');
   </script>
 
-  <meta name="description" content="Join us for WIST 2025, a conference empowering women in STEM through leadership, advocacy, and community. Hosted by AWIS San Diego.">
+  <meta name="description" content="Join us for WIST 2019, a conference empowering women in STEM through leadership, advocacy, and community. Hosted by AWIS San Diego.">
 </head>
 <body>
   <h1>Welcome to WIST 2025</h1>
