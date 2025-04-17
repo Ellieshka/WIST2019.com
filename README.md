@@ -17,7 +17,7 @@
   <meta name="description" content="Join us for WIST 2019, a conference empowering women in STEM through leadership, advocacy, and community. Hosted by AWIS San Diego.">
 </head>
 <body>
-  <h1>Welcome to WIST 2025</h1>
+  <h1>Welcome to WIST 2019</h1>
   <p>Empowering women in science and technology. Hosted by AWIS San Diego.</p>
   <p>Stay tuned for updates!</p>
 </body>
