@@ -4,6 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My WIST 2025 Event Site</title>
+  <!-- Meta tags for SEO -->
+  <title>WIST 2019 - Women in Science and Technology Conference</title>
+  <meta name="description" content="Join the 15th Biennial Women in Science and Technology Conference, hosted by AWIS-SD. Empowering women in STEM through community, research, and advocacy.">
+  <meta name="keywords" content="Women in STEM, Science Conference, AWIS San Diego, WIST 2019">
+  <meta name="author" content="AWIS-SD">
 
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZEPC40ZRC6"></script>
